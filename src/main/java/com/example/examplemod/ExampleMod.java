@@ -23,6 +23,7 @@ public class ExampleMod
     {
         // some example code
         System.out.println("DIRT BLOCK >> "+Blocks.DIRT.getUnlocalizedName());
+        this.proxy.init(event);
     }
 // 初始化事件处理器
     @EventHandler
@@ -30,6 +31,7 @@ public class ExampleMod
     {
     	// some example code
     	System.out.println("DIRT BLOCK >> "+Blocks.DIRT.getUnlocalizedName());
+    	this.proxy.preInit(event);
     }
 // 与其他mod交互，基于其他mod调整设置
     @EventHandler
@@ -37,5 +39,6 @@ public class ExampleMod
     {
     	// some example code
     	System.out.println("DIRT BLOCK >> "+Blocks.DIRT.getUnlocalizedName());
+    	this.proxy.PostInit(event);
     }
 }
