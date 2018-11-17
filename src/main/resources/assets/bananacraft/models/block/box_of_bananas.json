@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bananacraft:blocks/box_of_bananas"
+  }
+}

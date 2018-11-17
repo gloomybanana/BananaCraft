@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {"item": "bananacraft:box_of_bananas"}
+  ],
+
+  "result":
+  {
+    "item": "bananacraft:banana",
+    "count": 9
+  }
+}

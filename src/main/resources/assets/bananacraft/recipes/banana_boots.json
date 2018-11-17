@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_boots"
+    }, 
+    {
+      "item": "bananacraft:peeled_banana"
+    }
+  ],
+  "result": {
+    "item": "bananacraft:banana_boots",
+    "count": 1
+  }
+}

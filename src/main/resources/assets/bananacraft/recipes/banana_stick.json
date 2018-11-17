@@ -1,0 +1,21 @@
+{
+  "type":"minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "TB",
+    "BT"
+  ],
+
+  "key":
+  {
+    "T": {"item":"bananacraft:toasted_banana"},
+    "B": {"item":"bananacraft:banana"}
+  },
+
+  "result":
+  {
+    "item": "bananacraft:banana_stick",
+    "count": 1
+  }
+}

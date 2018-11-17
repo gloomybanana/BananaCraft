@@ -1,14 +1,14 @@
 [
 {
   "modid": "bananacraft",
-  "name": "BananaCraft",
-  "description": "A simple mod about banana",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "https://github.com/gloomybanana/BananaCraft",
+  "name": "bananacraft",
+  "description": "banana symbol freedom.Can't deny that banana is delicious as food,but usually it's used for many other things",
+  "version": "${1.0}",
+  "mcversion": "1.12.2",
+  "url": "",
   "updateUrl": "",
-  "authorList": ["gloomy_banana"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["gloomybanana"],
+  "credits": "this is a zz mod under xjbwork",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

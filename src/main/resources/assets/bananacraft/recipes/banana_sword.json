@@ -1,0 +1,22 @@
+{
+  "type":"minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " R ",
+    " R ",
+    " B "
+  ],
+
+  "key":
+  {
+    "R": {"item":"minecraft:diamond"},
+    "B": {"item":"bananacraft:banana_stick"}
+  },
+
+  "result":
+  {
+    "item": "bananacraft:banana_sword",
+    "count": 1
+  }
+}

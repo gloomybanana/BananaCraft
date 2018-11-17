@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {"item": "bananacraft:banana"}
+  ],
+
+  "result":
+  {
+    "item": "bananacraft:peeled_banana",
+    "count": 1
+  }
+}
