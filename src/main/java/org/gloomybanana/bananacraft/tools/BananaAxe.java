@@ -15,7 +15,7 @@ public class BananaAxe extends AxeItem {
 
         @Override
         public float getEfficiency() {
-            return 10.0F;
+            return 20.0F;
         }
 
         @Override

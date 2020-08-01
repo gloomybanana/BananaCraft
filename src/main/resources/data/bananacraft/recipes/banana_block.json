@@ -1,0 +1,26 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"block",
+	"pattern":[
+		"12",
+		"45"
+	],
+	"key":{
+		"1":{
+			"item":"bananacraft:banana"
+		},
+		"2":{
+			"item":"bananacraft:banana"
+		},
+		"4":{
+			"item":"bananacraft:banana"
+		},
+		"5":{
+			"item":"bananacraft:banana"
+		}
+	},
+	"result":{
+		"item":"bananacraft:banana_block",
+		"count":1
+	}
+}

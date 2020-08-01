@@ -1,0 +1,30 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"pickaxe",
+	"pattern":[
+		"123",
+		" 5 ",
+		" 8 "
+	],
+	"key":{
+		"1":{
+			"item":"bananacraft:banana_block"
+		},
+		"2":{
+			"item":"bananacraft:banana_block"
+		},
+		"3":{
+			"item":"bananacraft:banana_block"
+		},
+		"5":{
+			"item":"bananacraft:banana_stick"
+		},
+		"8":{
+			"item":"bananacraft:banana_stick"
+		}
+	},
+	"result":{
+		"item":"bananacraft:banana_pickaxe",
+		"count":1
+	}
+}

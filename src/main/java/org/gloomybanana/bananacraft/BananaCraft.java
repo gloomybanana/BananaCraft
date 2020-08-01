@@ -13,5 +13,6 @@ public class BananaCraft
 
     public BananaCraft() {
         Registry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        Registry.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 }

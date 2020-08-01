@@ -1,0 +1,30 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"axe",
+	"pattern":[
+		" 23",
+		" 56",
+		" 8 "
+	],
+	"key":{
+		"2":{
+			"item":"bananacraft:banana_block"
+		},
+		"3":{
+			"item":"bananacraft:banana_block"
+		},
+		"5":{
+			"item":"bananacraft:banana_stick"
+		},
+		"6":{
+			"item":"bananacraft:banana_block"
+		},
+		"8":{
+			"item":"bananacraft:banana_stick"
+		}
+	},
+	"result":{
+		"item":"bananacraft:banana_axe",
+		"count":1
+	}
+}

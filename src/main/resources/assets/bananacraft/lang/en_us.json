@@ -7,7 +7,8 @@
   "item.bananacraft.banana_pickaxe":"banana pickaxe",
   "item.bananacraft.banana_axe":"banana axe",
   "item.bananacraft.banana_sword":"banana sword",
-  "item.bananacraft.banana_shovel":"banana spade",
+  "item.bananacraft.banana_shovel":"banana shovel",
+  "block.bananacraft.banana_block":"banana block",
 
   "tile.bananacraft.box_of_bananas":"block of bananas"
 }

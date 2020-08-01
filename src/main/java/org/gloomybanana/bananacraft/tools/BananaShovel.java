@@ -15,7 +15,7 @@ public class BananaShovel extends ShovelItem {
 
         @Override
         public float getEfficiency() {
-            return 10.0F;
+            return 20.0F;
         }
 
         @Override
@@ -41,6 +41,6 @@ public class BananaShovel extends ShovelItem {
 
 
     public BananaShovel() {
-        super(itemTier,5,2,new Item.Properties().group(ItemGroup.TOOLS));
+        super(itemTier,1,2,new Item.Properties().group(ItemGroup.TOOLS));
     }
 }

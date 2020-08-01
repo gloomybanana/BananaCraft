@@ -1,6 +1,8 @@
 package org.gloomybanana.bananacraft;
 
 import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraftforge.fml.RegistryObject;
@@ -25,4 +27,11 @@ public class Registry {
     public static RegistryObject<Item> banana = ITEMS.register("banana",() -> new Item(new Item.Properties().group(ItemGroup.MATERIALS)));
     public static RegistryObject<Item> banana_stick = ITEMS.register("banana_stick",() -> new Item(new Item.Properties().group(ItemGroup.MATERIALS)));
     public static RegistryObject<Item> peeredBanana = ITEMS.register("peeled_banana", PeeledBanana::new);
+
+    public static RegistryObject<Block> bananaBlock = BLOCKS.register("banana_block", () -> {
+        return new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(5));
+    });
+    public static RegistryObject<Item> bananaBlockItem = ITEMS.register("banana_block", () -> {
+        return new BlockItem(Registry.bananaBlock.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS));
+    });
 }

@@ -1,0 +1,5 @@
+{
+  "variants": {
+      "": {"model": "bananacraft:block/banana_block"}
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"shovel",
+	"pattern":[
+		" 2 ",
+		" 5 ",
+		" 8 "
+	],
+	"key":{
+		"2":{
+			"item":"bananacraft:banana_block"
+		},
+		"5":{
+			"item":"bananacraft:banana_stick"
+		},
+		"8":{
+			"item":"bananacraft:banana_stick"
+		}
+	},
+	"result":{
+		"item":"bananacraft:banana_shovel",
+		"count":1
+	}
+}

@@ -15,7 +15,7 @@ public class BananaPickaxe extends PickaxeItem {
 
         @Override
         public float getEfficiency() {
-            return 10.0F;
+            return 20.0F;
         }
 
         @Override
@@ -39,6 +39,6 @@ public class BananaPickaxe extends PickaxeItem {
         }
     };
     public BananaPickaxe() {
-        super(itemTier,5,2,new Item.Properties().group(ItemGroup.TOOLS));
+        super(itemTier,3,2,new Item.Properties().group(ItemGroup.TOOLS));
     }
 }

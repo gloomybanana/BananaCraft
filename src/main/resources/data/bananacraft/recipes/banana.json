@@ -1,0 +1,13 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"group":"banana",
+	"ingredients":[
+		{
+			"item":"bananacraft:banana_block"
+		}
+	],
+	"result":{
+		"item":"bananacraft:banana",
+		"count":4
+	}
+}
