@@ -1,0 +1,15 @@
+{
+  "item.bananacraft.banana":"香蕉",
+  "item.bananacraft.banana_stick":"香蕉棍",
+  "item.bananacraft.peeled_banana":"剥皮的香蕉",
+  "item.bananacraft.toasted_banana":"烤香蕉",
+
+  "item.bananacraft.banana_pickaxe":"香蕉镐",
+  "item.bananacraft.banana_axe":"香蕉斧",
+  "item.bananacraft.banana_sword":"香蕉剑",
+  "item.bananacraft.banana_shovel":"香蕉铲",
+  "item.bananacraft.banana_hoe":"香蕉锄",
+  "item.bananacraft.banana_boots":"香蕉靴",
+
+  "tile.bananacraft.box_of_bananas":"香蕉块"
+}

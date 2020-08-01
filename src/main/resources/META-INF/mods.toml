@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/gloomybanana/BananaCraft/issue"
+[[mods]]
+modId="bananacraft"
+version="${file.jarVersion}"
+displayName="Banana Craft"
+displayURL="https://github.com/gloomybanana/BananaCraft/"
+logoFile="logo.png"
+authors="gloomybanana"
+description='''
+Banananananananananananananana
+'''

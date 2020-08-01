@@ -1,0 +1,13 @@
+{
+  "item.bananacraft.banana":"banana",
+  "item.bananacraft.banana_stick":"banana stick",
+  "item.bananacraft.peeled_banana":"peeled banana",
+  "item.bananacraft.toasted_banana":"toasted banana",
+  
+  "item.bananacraft.banana_pickaxe":"banana pickaxe",
+  "item.bananacraft.banana_axe":"banana axe",
+  "item.bananacraft.banana_sword":"banana sword",
+  "item.bananacraft.banana_shovel":"banana spade",
+
+  "tile.bananacraft.box_of_bananas":"block of bananas"
+}

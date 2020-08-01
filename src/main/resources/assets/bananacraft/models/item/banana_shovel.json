@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "bananacraft:items/banana_axe"
+    "layer0": "bananacraft:items/banana_shovel"
   }
 }
