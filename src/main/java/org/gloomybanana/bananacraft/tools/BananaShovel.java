@@ -41,6 +41,6 @@ public class BananaShovel extends ShovelItem {
 
 
     public BananaShovel() {
-        super(itemTier,1,2,new Item.Properties().group(ItemGroup.TOOLS));
+        super(itemTier,2,-1.5F,new Item.Properties().group(ItemGroup.TOOLS));
     }
 }

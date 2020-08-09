@@ -42,6 +42,6 @@ public class BananaSword extends SwordItem {
     };
 
     public BananaSword() {
-        super(itemTier,3,3,new Item.Properties().group(ItemGroup.COMBAT));
+        super(itemTier,3,-2.0F,new Item.Properties().group(ItemGroup.COMBAT));
     }
 }

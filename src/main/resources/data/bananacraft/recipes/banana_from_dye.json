@@ -1,17 +1,18 @@
 {
 	"type":"minecraft:crafting_shaped",
-	"group":"block",
+	"group":"banana",
 	"pattern":[
-		"11",
-		"11"
+		"  1",
+		" 11",
+		"11 "
 	],
 	"key":{
 		"1":{
-			"item":"bananacraft:banana"
+			"item":"minecraft:yellow_dye"
 		}
 	},
 	"result":{
-		"item":"bananacraft:banana_block",
+		"item":"bananacraft:banana",
 		"count":1
 	}
 }

@@ -1,4 +1,4 @@
-package org.gloomybanana.bananacraft;
+package org.gloomybanana.bananacraft.handler;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
@@ -36,7 +36,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @EventBusSubscriber
-public class Events {
+public class ToolEvents {
 
 	@SubscribeEvent(priority = EventPriority.LOWEST)
 	public static void changeBlockDrops(BlockEvent.BreakEvent event) {

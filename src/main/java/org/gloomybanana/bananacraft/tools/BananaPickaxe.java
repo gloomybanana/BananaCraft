@@ -39,6 +39,6 @@ public class BananaPickaxe extends PickaxeItem {
         }
     };
     public BananaPickaxe() {
-        super(itemTier,3,2,new Item.Properties().group(ItemGroup.TOOLS));
+        super(itemTier,2,-2.0F,new Item.Properties().group(ItemGroup.TOOLS));
     }
 }

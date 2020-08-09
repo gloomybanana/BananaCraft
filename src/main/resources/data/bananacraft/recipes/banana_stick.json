@@ -2,16 +2,16 @@
 	"type":"minecraft:crafting_shaped",
 	"group":"block",
 	"pattern":[
-		"11",
-		"11"
+		"1",
+		"1"
 	],
 	"key":{
 		"1":{
-			"item":"bananacraft:banana"
+			"item":"bananacraft:banana_block"
 		}
 	},
 	"result":{
-		"item":"bananacraft:banana_block",
-		"count":1
+		"item":"bananacraft:banana_stick",
+		"count":2
 	}
 }

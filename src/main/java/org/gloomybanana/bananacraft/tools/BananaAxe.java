@@ -39,6 +39,6 @@ public class BananaAxe extends AxeItem {
         }
     };
     public BananaAxe() {
-        super(itemTier,5,2,new Item.Properties().group(ItemGroup.TOOLS));
+        super(itemTier,2,-1.5F,new Item.Properties().group(ItemGroup.TOOLS));
     }
 }
